@@ -1,6 +1,4 @@
-# Bienvenido al portafolio web de Yber-M. 🚀
-
-## 📭 Connect with me:
+## 🚀⭐ Welcome to the Yber-M web portfolio 🚀⭐
 
 <div align="center"> 
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVhY2NiNDI3NmJiY2NkMjYzZGFiMjE4NWNmZjY5MmExYjFjMTZlOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/VNmWsVM0BL63VYL02z/giphy.gif" width="230"> </img>
