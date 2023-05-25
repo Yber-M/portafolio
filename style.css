@@ -290,11 +290,12 @@ html {
     margin-bottom: 25px;
 }
 
-.skills .skill > span {
+.skills .skill>span {
     font-weight: bold;
     display: block;
     margin-bottom: 10px;
 }
+
 .skills .skill .barra-skill {
     height: 8px;
     width: 80%;
@@ -321,15 +322,206 @@ html {
     text-align: center;
     top: -17px;
     right: -15px;
-    font-size:14px;
+    font-size: 14px;
 }
 
+/* * Poner el Porcentaje de Skills */
+/* ! HARDSKILLS */
+/* ? JS */
 .skills .skill .javascript {
     width: 0%;
     animation: 2s javascript forwards;
 }
 
 @keyframes javascript {
-    0%{width: 0%;}
-    100%{width: 38%;}
+    0% {width: 0%;}
+    100% {width: 38%;}
+}
+
+/* ? WORDPRESS */
+.skills .skill .wordpress {
+    width: 0%;
+    animation: 2s wordpress forwards;
+}
+
+@keyframes wordpress {
+    0% {width: 0%;}
+    100% {width: 80%;}
+}
+
+/* ? HTML&CSS */
+.skills .skill .htmlcss {
+    width: 0%;
+    animation: 2s htmlcss forwards;
+}
+
+@keyframes htmlcss {
+    0% {width: 0%;}
+    100% {width: 85%;}
+}
+
+/* ? JAVA */
+.skills .skill .java {
+    width: 0%;
+    animation: 2s java forwards;
+}
+
+@keyframes java {
+    0% {width: 0%;}
+    100% {width: 70%;}
+}
+
+/* ? CANVA */
+.skills .skill .canva {
+    width: 0%;
+    animation: 2s canva forwards;
+}
+
+@keyframes canva {
+    0% {width: 0%;}
+    100% {width: 96%;}
+}
+
+/* ? Clipchamp */
+.skills .skill .clipchamp {
+    width: 0%;
+    animation: 2s clipchamp forwards;
+}
+
+@keyframes clipchamp {
+    0% {width: 0%;}
+    100% {width: 95%;}
+}
+
+/* ? bootstrap */
+.skills .skill .bootstrap {
+    width: 0%;
+    animation: 2s bootstrap forwards;
+}
+
+@keyframes bootstrap {
+    0% {width: 0%;}
+    100% {width: 87%;}
+}
+
+/* ? bootstrap */
+.skills .skill .git {
+    width: 0%;
+    animation: 2s git forwards;
+}
+
+@keyframes git {
+    0% {width: 0%;}
+    100% {width: 92%;}
+}
+
+/* ? english */
+.skills .skill .english {
+    width: 0%;
+    animation: 2s english forwards;
+}
+
+@keyframes english {
+    0% {width: 0%;}
+    100% {width: 45%;}
+}
+
+/* ! SOFTSKILLS */
+/* ? AssertiveCommunication */
+.skills .skill .assertive {
+    width: 0%;
+    animation: 2s assertive forwards;
+}
+
+@keyframes assertive {
+    0% {width: 0%;}
+    100% {width: 80%;}
+}
+
+/* ? Leadership */
+.skills .skill .leadership {
+    width: 0%;
+    animation: 2s leadership forwards;
+}
+
+@keyframes leadership {
+    0% {width: 0%;}
+    100% {width: 84%;}
+}
+
+/* ? Oratoty */
+.skills .skill .oratory {
+    width: 0%;
+    animation: 2s oratory forwards;
+}
+
+@keyframes oratory {
+    0% {width: 0%;}
+    100% {width: 89%;}
+}
+
+/* ? critical */
+.skills .skill .critical {
+    width: 0%;
+    animation: 2s critical forwards;
+}
+
+@keyframes critical {
+    0% {width: 0%;}
+    100% {width: 90%;}
+}
+
+/* ? teamwork */
+.skills .skill .teamwork {
+    width: 0%;
+    animation: 2s teamwork forwards;
+}
+
+@keyframes teamwork {
+    0% {width: 0%;}
+    100% {width: 86%;}
+}
+
+/* ? innovation */
+.skills .skill .innovation {
+    width: 0%;
+    animation: 2s innovation forwards;
+}
+
+@keyframes innovation {
+    0% {width: 0%;}
+    100% {width: 92%;}
+}
+
+/* ? resolution */
+.skills .skill .resolution {
+    width: 0%;
+    animation: 2s resolution forwards;
+}
+
+@keyframes resolution {
+    0% {width: 0%;}
+    100% {width: 82%;}
+}
+
+/* ? resilien */
+.skills .skill .resilien {
+    width: 0%;
+    animation: 2s resilien forwards;
+}
+
+@keyframes resilien {
+    0% {width: 0%;}
+    100% {width: 80%;}
+}
+
+/* commitment */
+.skills .skill .commitment {
+    width: 0%;
+    animation: 2s commitment forwards;
+}
+
+@keyframes commitment {
+    0% {width: 0%;}
+    100% {width: 95%;}
 }
