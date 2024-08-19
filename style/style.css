@@ -334,8 +334,13 @@ html {
 }
 
 @keyframes javascript {
-    0% {width: 0%;}
-    100% {width: 88%;}
+    0% {
+        width: 0%;
+    }
+
+    100% {
+        width: 88%;
+    }
 }
 
 /* ? WORDPRESS */
@@ -345,8 +350,13 @@ html {
 }
 
 @keyframes wordpress {
-    0% {width: 0%;}
-    100% {width: 80%;}
+    0% {
+        width: 0%;
+    }
+
+    100% {
+        width: 80%;
+    }
 }
 
 /* ? HTML&CSS */
@@ -356,8 +366,13 @@ html {
 }
 
 @keyframes htmlcss {
-    0% {width: 0%;}
-    100% {width: 85%;}
+    0% {
+        width: 0%;
+    }
+
+    100% {
+        width: 85%;
+    }
 }
 
 /* ? JAVA */
@@ -367,8 +382,13 @@ html {
 }
 
 @keyframes java {
-    0% {width: 0%;}
-    100% {width: 70%;}
+    0% {
+        width: 0%;
+    }
+
+    100% {
+        width: 70%;
+    }
 }
 
 /* ? CANVA */
@@ -378,8 +398,13 @@ html {
 }
 
 @keyframes canva {
-    0% {width: 0%;}
-    100% {width: 96%;}
+    0% {
+        width: 0%;
+    }
+
+    100% {
+        width: 96%;
+    }
 }
 
 /* ? Clipchamp */
@@ -389,8 +414,13 @@ html {
 }
 
 @keyframes clipchamp {
-    0% {width: 0%;}
-    100% {width: 95%;}
+    0% {
+        width: 0%;
+    }
+
+    100% {
+        width: 95%;
+    }
 }
 
 /* ? bootstrap */
@@ -400,8 +430,13 @@ html {
 }
 
 @keyframes bootstrap {
-    0% {width: 0%;}
-    100% {width: 87%;}
+    0% {
+        width: 0%;
+    }
+
+    100% {
+        width: 87%;
+    }
 }
 
 /* ? bootstrap */
@@ -411,8 +446,13 @@ html {
 }
 
 @keyframes git {
-    0% {width: 0%;}
-    100% {width: 92%;}
+    0% {
+        width: 0%;
+    }
+
+    100% {
+        width: 92%;
+    }
 }
 
 /* ? english */
@@ -422,8 +462,13 @@ html {
 }
 
 @keyframes english {
-    0% {width: 0%;}
-    100% {width: 45%;}
+    0% {
+        width: 0%;
+    }
+
+    100% {
+        width: 45%;
+    }
 }
 
 /* ! SOFTSKILLS */
@@ -434,8 +479,13 @@ html {
 }
 
 @keyframes assertive {
-    0% {width: 0%;}
-    100% {width: 80%;}
+    0% {
+        width: 0%;
+    }
+
+    100% {
+        width: 80%;
+    }
 }
 
 /* ? Leadership */
@@ -445,8 +495,13 @@ html {
 }
 
 @keyframes leadership {
-    0% {width: 0%;}
-    100% {width: 84%;}
+    0% {
+        width: 0%;
+    }
+
+    100% {
+        width: 84%;
+    }
 }
 
 /* ? Oratoty */
@@ -456,8 +511,13 @@ html {
 }
 
 @keyframes oratory {
-    0% {width: 0%;}
-    100% {width: 89%;}
+    0% {
+        width: 0%;
+    }
+
+    100% {
+        width: 89%;
+    }
 }
 
 /* ? critical */
@@ -467,8 +527,13 @@ html {
 }
 
 @keyframes critical {
-    0% {width: 0%;}
-    100% {width: 90%;}
+    0% {
+        width: 0%;
+    }
+
+    100% {
+        width: 90%;
+    }
 }
 
 /* ? teamwork */
@@ -478,8 +543,13 @@ html {
 }
 
 @keyframes teamwork {
-    0% {width: 0%;}
-    100% {width: 86%;}
+    0% {
+        width: 0%;
+    }
+
+    100% {
+        width: 86%;
+    }
 }
 
 /* ? innovation */
@@ -489,8 +559,13 @@ html {
 }
 
 @keyframes innovation {
-    0% {width: 0%;}
-    100% {width: 92%;}
+    0% {
+        width: 0%;
+    }
+
+    100% {
+        width: 92%;
+    }
 }
 
 /* ? resolution */
@@ -500,8 +575,13 @@ html {
 }
 
 @keyframes resolution {
-    0% {width: 0%;}
-    100% {width: 82%;}
+    0% {
+        width: 0%;
+    }
+
+    100% {
+        width: 82%;
+    }
 }
 
 /* ? resilien */
@@ -511,8 +591,13 @@ html {
 }
 
 @keyframes resilien {
-    0% {width: 0%;}
-    100% {width: 80%;}
+    0% {
+        width: 0%;
+    }
+
+    100% {
+        width: 80%;
+    }
 }
 
 /* commitment */
@@ -522,8 +607,13 @@ html {
 }
 
 @keyframes commitment {
-    0% {width: 0%;}
-    100% {width: 95%;}
+    0% {
+        width: 0%;
+    }
+
+    100% {
+        width: 95%;
+    }
 }
 
 /* * SECCIÓN DE CURRICULUM */
