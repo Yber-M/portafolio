@@ -514,17 +514,17 @@
       <h2>CONTACTO</h2>
       <div class="fila">
         <!-- ? Formulario -->
-        <div class="col">
-          <input type="text" placeholder="Nombres">
-          <input type="text" placeholder="N° Celular">
-          <input type="text" placeholder="Correo electrónico">
-          <input type="text" placeholder="Tema">
-          <textarea name="" id="" cols="30" rows="10" placeholder="Mensaje"></textarea>
-          <button>
-            Disponible muy pronto <i class="fa-solid fa-paper-plane"></i>
-            <span class="overlay"></span>
-          </button>
-        </div>
+        <form class="col" action="https://formsubmit.co/ybermarlon@gmail.com" method="post">
+            <input type="text" placeholder="Nombres" name="nombres" id="nombres" required>
+            <input type="text" placeholder="N° Celular" name="cel" id="cel" required>
+            <input type="email" placeholder="Correo electrónico" name="email" id="email" required>
+            <input type="text" placeholder="Tema" name="tema" id="tema" required>
+            <textarea name="mensaje" id="mensaje" cols="30" rows="10" placeholder="Mensaje" required ></textarea>
+            <button type="submit">
+              Enviar <i class="fa-solid fa-paper-plane"></i>
+              <span class="overlay"></span>
+            </button>
+        </form>
 
         <!-- ? Mapa -->
         <div class="col">
