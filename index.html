@@ -20,19 +20,20 @@
   <div class="contenedor-header">
     <header>
       <div class="logo">
-        <a href="#">Dev. Yb.M</a>
+        <img src="img/logo-portafolio-web.svg" alt="logo-ybm">
+        <a href="#inicio">Yb.M</a>
       </div>
       <nav id="nav">
         <ul>
-          <li><a href="#inicio">INICIO</a></li>
-          <li><a href="#sobremi">SOBRE MÍ</a></li>
-          <li><a href="#skills">SKILLS</a></li>
-          <li><a href="#curriculum">CURRÍCULUM</a></li>
-          <li><a href="#portafolio">PORTAFOLIO</a></li>
-          <li><a href="#contacto">CONTACTO</a></li>
+          <li><a href="#inicio" onclick="seleccionar()">INICIO</a></li>
+          <li><a href="#sobremi" onclick="seleccionar()">SOBRE MÍ</a></li>
+          <li><a href="#skills" onclick="seleccionar()">SKILLS</a></li>
+          <li><a href="#curriculum" onclick="seleccionar()">CURRÍCULUM</a></li>
+          <li><a href="#portafolio" onclick="seleccionar()">PORTAFOLIO</a></li>
+          <li><a href="#contacto" onclick="seleccionar()">CONTACTO</a></li>
         </ul>
       </nav>
-      <div class="nav-responsive">
+      <div class="nav-responsive" onclick="mostrarOcultarMenu()">
         <i class="fa-solid fa-bars"></i>
       </div>
     </header>
@@ -212,7 +213,7 @@
             <span>English</span>
             <div class="barra-skill">
               <div class="progreso english">
-                <span>45%</span>
+                <span>56%</span>
               </div>
             </div>
           </div>
@@ -543,6 +544,8 @@
     </div>
     <span> © Yber-M</span>
   </footer>
+
+  <script src="js/scripts.js"></script>
 </body>
 
 </html>

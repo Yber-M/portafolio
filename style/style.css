@@ -46,6 +46,10 @@ html {
     color: #e94343;
     text-decoration: none;
 }
+.contenedor-header header .logo img {
+    width: 32px;
+    margin-top: 10%;
+}
 
 .contenedor-header header ul {
     display: flex;
@@ -477,7 +481,7 @@ html {
     }
 
     100% {
-        width: 45%;
+        width: 56%;
     }
 }
 
