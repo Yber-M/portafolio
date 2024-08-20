@@ -1083,3 +1083,9 @@ footer .arriba {
         height: 45rem;
     }
 }
+
+@media only screen and (min-width: 1920px) {
+    .inicio {
+        height: 90vh;
+    }
+}
