@@ -40,15 +40,8 @@ html {
     padding: 10px 20px;
 }
 
-.contenedor-header header .logo a {
-    font-family: 'Mononoki', sans-serif;
-    font-size: 30px;
-    color: #e94343;
-    text-decoration: none;
-}
-.contenedor-header header .logo img {
-    width: 32px;
-    margin-top: 10%;
+.contenedor-header header .logo-pag img {
+    width: 42px;
 }
 
 .contenedor-header header ul {
@@ -417,11 +410,11 @@ html {
     }
 
     100% {
-        width: 96%;
+        width: 78%;
     }
 }
 
-/* ? Clipchamp */
+/* ?  */
 .skills .skill .clipchamp {
     width: 0%;
     animation: 2s clipchamp forwards;
@@ -433,7 +426,7 @@ html {
     }
 
     100% {
-        width: 95%;
+        width: 80%;
     }
 }
 
@@ -796,6 +789,10 @@ html {
     justify-content: space-around;
 }
 
+.portafolio .galeria a {
+    color: white;
+}
+
 .portafolio .galeria .proyecto {
     position: relative;
     max-width: 340px;
@@ -921,7 +918,7 @@ html {
     top: 40%;
     background-color: #252A2E;
     padding: 20px;
-    max-width: 350px;
+    width: 350px;
     left: 50%;
     transform: translate(-50%, -50%);
 }
