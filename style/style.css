@@ -1023,9 +1023,19 @@ footer .arriba {
     .nav-responsive {
         margin-right: -0.1rem;
     }
+
     .sobremi .fila .col ul {
-        margin-left: 18%;
+        padding-left: 18%;
     }
+
+    .sobremi .fila .col .email__sobremi {
+        white-space: nowrap;
+    }
+
+    .sobremi .fila .col .email__sobremi label {
+        display: inline;
+    }
+
     .sobremi .fila .col .contenedor-interes {
         margin-left: 15%;
     }
