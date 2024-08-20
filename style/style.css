@@ -37,7 +37,7 @@ html {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 15px 20px;
+    padding: 10px 20px;
 }
 
 .contenedor-header header .logo a {
@@ -57,7 +57,7 @@ html {
     color: #fff;
     margin: 0 15px;
     padding: 3px;
-    transition: 5s;
+    transition: 2s;
     text-decoration: none;
 }
 
@@ -79,7 +79,7 @@ html {
 .inicio {
     background: linear-gradient(to top, rgba(30, 35, 38, .8), rgba(30, 35, 38, .1)), url(../img/fondo.jpg);
     background-size: cover;
-    height: 110vh;
+    height: 112vh;
     color: #fff;
     display: flex;
     align-items: center;
@@ -698,12 +698,14 @@ html {
     display: block;
     color: #e94343;
     font-family: 'Mononoki', sans-serif;
+    margin-bottom: 10px;
 }
 
 .curriculum .fila .item .fecha {
     display: block;
     margin-bottom: 10px;
     font-style: italic;
+    font-weight: 750;
 }
 
 .curriculum .fila .item p {
@@ -929,4 +931,50 @@ html {
     color: #e94343;
     display: inline-block;
     margin-right: 20px;
+}
+
+footer {
+    background-color: #252A2E;
+    color: #fff;
+    padding: 50px 0 30px 0;
+    text-align: center;
+    position: relative;   
+    width: 100%;
+}
+
+footer .redes {
+    margin-bottom: 20px;
+}
+
+footer .redes a {
+    color: #fff;
+    display: inline-block;
+    text-decoration: none;
+    border: 2px solid #e94343;
+    border-radius: 100%;
+    width: 52px;
+    height: 52px;
+    line-height: 52px;
+    margin: 25px 5px;
+    font-size: 30px;
+    transition: .3s;
+}
+
+footer .redes a:hover {
+    background-color: #e94343;
+}
+
+footer .arriba {
+    display: block;
+    width: 50px;
+    height: 50px;
+    background-color: #e94343;
+    color: #fff;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: -25px;
+    border-radius: 50%;
+    line-height: 50px;
+    font-size: 18px;
 }
