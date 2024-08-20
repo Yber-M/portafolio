@@ -717,7 +717,7 @@ html {
 
 .curriculum .fila .der {
     border-left: 2px solid #e94343;
-    margin-right: 20px;
+    margin-left: 20px;
 }
 
 .curriculum .fila .item .conectori {
@@ -748,7 +748,7 @@ html {
     width: 47px;
     position: absolute;
     top: 50%;
-    left: -27px;
+    left: -47px;
     z-index: 5;
 }
 
