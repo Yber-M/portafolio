@@ -12712,7 +12712,7 @@ const PDFViewerApplication = {
       return;
     }
     const editorIndicator = this._hasAnnotationEditors && !this.pdfRenderingQueue.printing;
-    document.title = `${editorIndicator ? "* " : ""}CV MARLON - Mi Currículum`;
+    document.title = `${editorIndicator ? "* " : ""}Yb.M | Mi Currículum`;
   },
   get _docFilename() {
     return this._contentDispositionFilename || pdfjs_getPdfFilenameFromUrl(this.url);
