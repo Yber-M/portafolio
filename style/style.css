@@ -813,7 +813,7 @@ html {
     height: 100%;
     text-align: center;
     display: flex;
-    background: linear-gradient(rgba(36, 36, 36, 0.5), rgba(233, 67, 67, 0.699));
+    background: linear-gradient(rgba(36, 36, 36, 0.5), rgba(8, 8, 8, 0.699));
     flex-direction: column;
     justify-content: center;
     transition: 1s;
